@@ -388,3 +388,9 @@ footer button.show {
         width: 90%;
     }
 }
+
+@media(max-width:374px) {
+    .result_box .complete_text {
+        font-size: 15px;
+    }
+}
